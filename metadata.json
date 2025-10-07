@@ -1,0 +1,9 @@
+{
+  "name": "Jak II - Refreshed HUD",
+  "version": "1.1.0",
+  "author": "Alokas",
+  "releaseDate": "2025-09-24",
+  "supportedGames": ["jak2"],
+  "description": "A handmade recreation of Jak II's HUD in HD. Includes every HUD and menu icon, except for the maps which currently can't be resized.",
+  "tags": ["jak2","hud","hd","texture"]
+}
